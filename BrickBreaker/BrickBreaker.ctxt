@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BrickBreaker
+comment1.params=
+comment1.target=BrickBreaker()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=e
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=arg0
+comment7.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=
+comment9.target=void\ restart()
+numComments=10
